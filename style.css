@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 .box{
-    margin: 40px auto;
+	/* padding: 3%; */
+   	margin: 40px auto;
     width: 330px;
     height: 330px;
     background-color: blueviolet;
@@ -20,10 +21,10 @@
     margin-left: 20px; ;
 }
 #foto{
-    width: 90%;
-    height: auto;
-    margin: auto;
+    width: 95%;
+    height: 95%;
+	margin: 2.5%;
     
-    align-items: center;
-    display: flex;
+    /* align-items: center;
+    display: flex; */
 }
